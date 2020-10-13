@@ -1,2 +1,2 @@
-# BounceOff-Algorithm-1-
-The rectangles move and bounce off each other!
+# p5.play-boilerplate
+Boiler plate for p5.play
